@@ -1,0 +1,4 @@
+#Mon Sep 09 19:21:14 MDT 2019
+base.0=/home/tyler/AndroidStudioProjects/TipCalculator1/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
